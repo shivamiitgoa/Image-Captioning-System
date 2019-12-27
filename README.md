@@ -7,4 +7,5 @@
 * Select Open with Colaboratory
 * Click runtime, select run all
 * You also have to authorize google drive in this.
+* Watch video.mp4 for demo
 
